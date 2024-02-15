@@ -1,0 +1,29 @@
+1.List Initialization:
+Initialize an empty list and add elements to it.
+
+2.List Length:
+Find and print the length of a given list.
+
+3.List Access:
+Access and print the first and last elements of a list.
+
+4.List Slicing:
+Create a new list by slicing a given list from index 2 to 5.
+
+5.List Modification:
+Update the value of an element in a list at a specific index.
+
+6.List Removal:
+Remove an element with a specific value from a list.
+
+7.List Sorting:
+Sort a list of numbers in ascending order.
+
+8.List Reversal:
+Reverse the order of elements in a given list.
+
+9.List Concatenation:
+Concatenate two lists and print the resulting list.
+
+10.List Iteration:
+Use a loop to iterate through a list and print each element.

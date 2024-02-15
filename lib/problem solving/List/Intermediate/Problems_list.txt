@@ -1,0 +1,31 @@
+*** Intermediate Problems: ***
+
+1.List Filtering:
+Write a program to filter out even numbers from a given list.
+
+2.List Mapping:
+Square each element in a list and create a new list with the squared values.
+
+3.List Combination:
+Merge two lists into a new list, alternating elements from each list.
+
+4.List Searching:
+Find and print the index of a specific element in a list. Handle the case when the element is not present.
+
+5.List Frequency:
+Count and print the frequency of each unique element in a list.
+
+6.List Palindrome Check:
+Check if a given list is a palindrome (reads the same forwards and backwards).
+
+7.List Chunking:
+Create a new list by chunking elements of a given list into sublists of a specified size.
+
+8.List Shuffling:
+Shuffle the elements of a list randomly.
+
+9.List Rotation:
+Rotate the elements of a list to the right by a specified number of positions.
+
+10.List Deduplication:
+Remove duplicate elements from a list while preserving the order.
