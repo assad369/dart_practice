@@ -1,0 +1,49 @@
+1. Count occurrences of each element in a list using a map:
+
+Problem: Create a function that takes a list of strings and returns a map with the count of occurrences for each unique element.
+Solution: Iterate through the list, updating the count in the map for each element.
+
+2. Implement a function to filter a map based on a given condition:
+
+Problem: Create a function that filters a map based on a given condition and returns a new map.
+Solution: Use a conditional check within a loop to include only entries that satisfy the condition.
+
+3. Write a program to find the key associated with the maximum value in a map:
+
+Problem: Find the key associated with the maximum value in a map.
+Solution: Use the reduce function to compare values and find the entry with the maximum value.
+
+4. Remove duplicate values from a map:
+
+Problem: Remove duplicate values from a map, keeping only distinct key-value pairs.
+Solution: Convert the map entries to a set to automatically remove duplicates.
+
+5. Group a list of items into a map based on a specific property:
+
+Problem: Group a list of items into a map based on a specific property, creating a mapping between the property and a list of corresponding items.
+Solution: Iterate through the list, using the property to group items in the map.
+
+6. Implement a deep merge for two maps:
+
+Problem: Merge two maps, including nested maps, into a single map.
+Solution: Use the spread operator to merge top-level entries and recursively merge nested maps.
+
+7. Sort a map by its keys or values:
+
+Problem: Sort a map either by its keys or values.
+Solution: Convert keys or entries to lists and use the sort method for sorting.
+
+8. Check if two maps are equal:
+
+Problem: Check if two maps are equal, meaning they have the same keys and corresponding values.
+Solution: Compare lengths and check if all keys and values match between the two maps.
+
+9. Implement a function to update values in a map based on a condition:
+
+Problem: Update values in a map based on a given condition.
+Solution: Use a loop to update values based on the condition provided.
+
+10. Create a map from two lists, one containing keys and the other containing values:
+
+Problem: Given two lists, create a map where elements from one list serve as keys, and elements from the other serve as values.
+Solution: Use the fromIterables constructor to create a map from two corresponding lists.
