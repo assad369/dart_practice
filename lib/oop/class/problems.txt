@@ -1,0 +1,34 @@
+Problem 1: Defining a Simple Class
+Task: Create a class named Student with the following properties: name (String), age (int), and grade (double).
+
+Problem 2: Accessing and Modifying Class Properties
+Task: Create an instance of the Student class, set its properties, and print them. Modify the grade property and print it again.
+
+Problem 3: Constructor with Default Values
+Task: Modify the Student class to have a constructor with default values for age (20) and grade (80.0).
+
+Problem 4: Creating Methods
+Task: Add a method named calculateGPA to the Student class that calculates and returns the student's GPA.
+
+Problem 5: Calling Methods
+Task: Create an instance of Student, call the calculateGPA method, and print the GPA.
+
+Problem 6: Inheritance
+Task: Create a subclass named UndergraduateStudent that inherits from the Student class and adds a property named major (String).
+
+Problem 7: Method Overriding
+Task: Override the calculateGPA method in the UndergraduateStudent class to use a specific GPA calculation based on the undergraduate grading system (e.g., consider letter grades and weight them accordingly).
+
+Problem 8: Static Members
+
+Task: Add a static property named currentYear to the Student class, initialize it to the current year, and create a static method named getUniqueID that generates and returns a unique identifier for each new student instance.
+
+
+Problem 9: Accessing Static Members
+
+Task: Access and print the currentYear value from the Student class without creating an instance.
+
+
+Problem 10: Understanding the 'this' Keyword
+
+Task: Modify the calculateGPA method in the UndergraduateStudent class to use the this keyword to reference the current instance's grade property within the method.

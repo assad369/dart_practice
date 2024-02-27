@@ -1,0 +1,20 @@
+Core Concepts:
+
+Classes: Blueprints for creating objects, defining their properties (data) and methods (functions). Learn about syntax, constructors, and fields.
+
+Objects: Instances of classes, holding specific data and behavior. Understand object creation, accessing data, and invoking methods.
+
+Inheritance: Reusing code through parent-child relationships. Grasp concepts like "extends" keyword, method overriding, and polymorphism.
+
+Polymorphism: Ability of objects to respond differently to the same message. Focus on virtual methods, dynamic dispatch, and interface implementation.
+
+Encapsulation: Bundling data and behavior together, controlling access. Dive into private, public, and protected members, getters, and setters.
+
+
+Advanced Topics:
+
+Abstract Classes: Classes defining a concept but not meant to be directly instantiated. Understand their purpose, limitations, and use cases.
+Mixins: Reusable code functionalities added to classes without inheritance. Explore "mixin with" syntax and advantages.
+Interfaces: Contracts defining methods without implementation. Grasp their role in defining behavior and decoupling code.
+Design Patterns: Reusable solutions to common programming problems in OOP. Learn about patterns like Factory Method, Singleton, and Observer.
+Asynchronous Programming: Handling operations that take time (e.g., network requests). Understand async/await, Futures, and Streams.
